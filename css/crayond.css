@@ -1,0 +1,124 @@
+.title{
+	font-weight:700;
+	font-size:2.3rem;
+	margin-bottom:0;
+	
+}
+.contant{
+	display:flex;
+	justify-content:space-evenly;	
+}
+
+.line{
+	font-weight:600;
+	font-size:1.3rem;
+}
+
+.size{
+	font-weight:700;
+	font-size:2.0rem;
+}
+
+.font{
+	font-weight:650;
+	font-size:1.3rem
+}
+
+.font2{
+	font-weight:600;
+	font-size:1.3rem;
+}
+
+.card-text{
+	font-weight:490;
+	font-size:1.1rem;
+}
+
+.text2{
+	font-weight:700;
+	font-size:1.2rem;
+}
+
+.text3{
+	font-weight:700;
+	font-size:1.4rem;
+	display:flex;
+	justify-content:center;
+}
+
+.text4{
+	font-weight:600;
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.text5{
+	font-weight:600;
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+}
+
+.head1{
+	font-weight:700;
+	font-size:1.8rem;
+}
+
+.head2{
+	font-weight:600;
+	font-size:1.2rem;
+}
+
+.head3{
+	font-weight:700;
+	font-size:1.9rem;
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.head4{
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.line2{
+	font-weight:600;
+	font-size:1.9rem;
+}
+
+.line3{
+	font-weight:500;
+	font-size:1.2rem;
+}
+
+.image1{
+	font-weight:700;
+	font-size:1.2rem;
+	display:flex;
+	justify-content:center;
+}
+
+.image2{
+	font-weight:700;
+	font-size:1.2rem;
+	display:flex;
+	justify-content:center;
+}
+
+.image3{
+	font-weight:700;
+	font-size:1.2srem;
+	display:flex;
+	justify-content:center;
+}
+
+.image4{
+	font-weight:600;
+	font-size:2.1rem;
+}
+
+
+.footer2{
+	font-weight:700;
+	font-size:1.4rem;
+}
